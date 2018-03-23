@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\matthew\desktop\c++ things\unreal course\section_2\bullcowgame\main.cpp(44): warning C4129: '|': unrecognized character escape sequence
+  BullCowgame.vcxproj -> C:\Users\Matthew\Desktop\C++ Things\Unreal Course\Section_2\Debug\BullCowgame.exe
